@@ -1,0 +1,1 @@
+Belajar pemrograman Python sangat menyenangkan. Tipe data set berguna untuk mencari nilai unik.
